@@ -1,5 +1,5 @@
-TAG=0.0.2
-IMAGE=jaredv/rq-docker
+TAG=0.0.3
+IMAGE=anandsaha/rq-docker
 STACK=rq-stack
 
 image:
